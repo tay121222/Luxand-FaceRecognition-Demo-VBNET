@@ -1,0 +1,14 @@
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\bin\Release\face_detection.exe.config
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\bin\Release\face_detection.exe
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\bin\Release\face_detection.pdb
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\bin\Release\face_detection.xml
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\bin\Release\FaceSDK.NET.dll
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\obj\Release\face_detection.vbprojAssemblyReference.cache
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\obj\Release\face_detection.Form1.resources
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\obj\Release\face_detection.Resources.resources
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\obj\Release\face_detection.vbproj.GenerateResource.cache
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\obj\Release\face_detection.vbproj.CoreCompileInputs.cache
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\obj\Release\face_detection.vbproj.CopyComplete
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\obj\Release\face_detection.exe
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\obj\Release\face_detection.xml
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\obj\Release\face_detection.pdb

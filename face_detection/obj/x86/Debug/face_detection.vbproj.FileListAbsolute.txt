@@ -1,0 +1,163 @@
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\bin\x86\Debug\face_detection.exe.config
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\bin\x86\Debug\face_detection.exe
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\bin\x86\Debug\face_detection.pdb
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\bin\x86\Debug\face_detection.xml
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\bin\x86\Debug\FaceSDK.NET.dll
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.Form1.resources
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.Resources.resources
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.vbproj.GenerateResource.cache
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.exe
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.xml
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.pdb
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.Form2.resources
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\bin\x86\Debug\DirectShowLib-2005.dll
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\bin\x86\Debug\Emgu.CV.dll
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\bin\x86\Debug\Emgu.Util.dll
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\bin\x86\Debug\Emgu.CV.UI.dll
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\bin\x86\Debug\ZedGraph.dll
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.image_recognition.resources
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.vbprojAssemblyReference.cache
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.vbproj.CoreCompileInputs.cache
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.vbproj.CopyComplete
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\bin\x86\Debug\Emgu.CV.World.dll
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\bin\x86\Debug\Emgu.CV.xml
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\bin\x86\Debug\Emgu.CV.UI.xml
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\bin\x86\Debug\Emgu.Util.xml
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\bin\x86\Debug\Emgu.CV.World.xml
+C:\Users\ENOCH TAYLOR\source\repos\face_detection\face_detection\bin\x86\Debug\MetroFramework.dll
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\bin\x86\Debug\face_detection.exe.config
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\bin\x86\Debug\face_detection.exe
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\bin\x86\Debug\face_detection.pdb
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\bin\x86\Debug\face_detection.xml
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\bin\x86\Debug\Emgu.CV.dll
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\bin\x86\Debug\Emgu.CV.UI.dll
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\bin\x86\Debug\Emgu.Util.dll
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\bin\x86\Debug\FaceSDK.NET.dll
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\bin\x86\Debug\MetroFramework.dll
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\bin\x86\Debug\ZedGraph.dll
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\bin\x86\Debug\Emgu.CV.World.dll
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\bin\x86\Debug\Emgu.CV.xml
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\bin\x86\Debug\Emgu.CV.UI.xml
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\bin\x86\Debug\Emgu.Util.xml
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\bin\x86\Debug\Emgu.CV.World.xml
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.vbproj.AssemblyReference.cache
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.Form1.resources
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.Form2.resources
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.image_recognition.resources
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.Resources.resources
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.vbproj.GenerateResource.cache
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.vbproj.CoreCompileInputs.cache
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.vbproj.CopyComplete
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.exe
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.xml
+C:\Users\EnochMCD\source\repos\face_detection\face_detection\obj\x86\Debug\face_detection.pdb
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\bin\x86\Debug\face_detection.exe.config
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\bin\x86\Debug\face_detection.exe
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\bin\x86\Debug\face_detection.pdb
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\bin\x86\Debug\face_detection.xml
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\bin\x86\Debug\Emgu.CV.dll
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\bin\x86\Debug\Emgu.CV.UI.dll
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\bin\x86\Debug\Emgu.Util.dll
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\bin\x86\Debug\FaceSDK.NET.dll
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\bin\x86\Debug\MetroFramework.dll
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\bin\x86\Debug\ZedGraph.dll
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\bin\x86\Debug\Emgu.CV.World.dll
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\bin\x86\Debug\Emgu.CV.xml
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\bin\x86\Debug\Emgu.CV.UI.xml
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\bin\x86\Debug\Emgu.Util.xml
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\bin\x86\Debug\Emgu.CV.World.xml
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\obj\x86\Debug\face_detection.vbproj.AssemblyReference.cache
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\obj\x86\Debug\face_detection.Form1.resources
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\obj\x86\Debug\face_detection.Form2.resources
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\obj\x86\Debug\face_detection.image_recognition.resources
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\obj\x86\Debug\face_detection.Resources.resources
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\obj\x86\Debug\face_detection.vbproj.GenerateResource.cache
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\obj\x86\Debug\face_detection.vbproj.CoreCompileInputs.cache
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\obj\x86\Debug\face_detection.vbproj.CopyComplete
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\obj\x86\Debug\face_detection.exe
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\obj\x86\Debug\face_detection.xml
+C:\Users\EnochMCD\source\repos\face_detection - Another Try\face_detection\obj\x86\Debug\face_detection.pdb
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\face_detection.exe.config
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\face_detection.exe
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\face_detection.pdb
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\face_detection.xml
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\Emgu.CV.dll
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\Emgu.CV.GPU.dll
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\Emgu.CV.ML.dll
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\Emgu.CV.OCR.dll
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\Emgu.CV.OpenCL.dll
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\Emgu.CV.Stitching.dll
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\Emgu.CV.UI.dll
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\Emgu.CV.VideoStab.dll
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\Emgu.Util.dll
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\FaceSDK.NET.dll
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\MetroFramework.dll
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\OpenTK.dll
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\OpenTK.GLControl.dll
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\ZedGraph.dll
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\OpenTK.xml
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\OpenTK.GLControl.xml
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\obj\x86\Debug\face_detection.vbproj.AssemblyReference.cache
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\obj\x86\Debug\face_detection.Form1.resources
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\obj\x86\Debug\face_detection.Form2.resources
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\obj\x86\Debug\face_detection.image_recognition.resources
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\obj\x86\Debug\face_detection.Resources.resources
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\obj\x86\Debug\face_detection.vbproj.GenerateResource.cache
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\obj\x86\Debug\face_detection.vbproj.CoreCompileInputs.cache
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\obj\x86\Debug\face_detection.vbproj.CopyComplete
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\obj\x86\Debug\face_detection.exe
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\obj\x86\Debug\face_detection.xml
+C:\Users\EnochMCD\source\repos\face_detection - Another Try - Copy\face_detection\obj\x86\Debug\face_detection.pdb
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\face_detection.exe.config
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\face_detection.exe
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\face_detection.pdb
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\face_detection.xml
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\Emgu.CV.dll
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\Emgu.CV.GPU.dll
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\Emgu.CV.ML.dll
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\Emgu.CV.OCR.dll
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\Emgu.CV.OpenCL.dll
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\Emgu.CV.Stitching.dll
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\Emgu.CV.UI.dll
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\Emgu.CV.VideoStab.dll
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\Emgu.Util.dll
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\OpenTK.dll
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\OpenTK.GLControl.dll
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\OpenTK.xml
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\bin\x86\Debug\OpenTK.GLControl.xml
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\obj\x86\Debug\face_detection.Form1.resources
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\obj\x86\Debug\face_detection.Form2.resources
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\obj\x86\Debug\face_detection.Resources.resources
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\obj\x86\Debug\face_detection.vbproj.GenerateResource.cache
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\obj\x86\Debug\face_detection.vbproj.CoreCompileInputs.cache
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\obj\x86\Debug\face_detection.vbproj.CopyComplete
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\obj\x86\Debug\face_detection.exe
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\obj\x86\Debug\face_detection.xml
+C:\Users\EnochMCD\source\repos\face face copies\face_detection - Another Try - Copy\face_detection\obj\x86\Debug\face_detection.pdb
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\bin\x86\Debug\face_detection.exe.config
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\bin\x86\Debug\face_detection.exe
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\bin\x86\Debug\face_detection.pdb
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\bin\x86\Debug\face_detection.xml
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\bin\x86\Debug\Emgu.CV.dll
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\bin\x86\Debug\Emgu.CV.GPU.dll
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\bin\x86\Debug\Emgu.CV.ML.dll
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\bin\x86\Debug\Emgu.CV.OCR.dll
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\bin\x86\Debug\Emgu.CV.OpenCL.dll
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\bin\x86\Debug\Emgu.CV.Stitching.dll
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\bin\x86\Debug\Emgu.CV.UI.dll
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\bin\x86\Debug\Emgu.CV.VideoStab.dll
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\bin\x86\Debug\Emgu.Util.dll
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\bin\x86\Debug\OpenTK.dll
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\bin\x86\Debug\OpenTK.GLControl.dll
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\bin\x86\Debug\OpenTK.xml
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\bin\x86\Debug\OpenTK.GLControl.xml
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\obj\x86\Debug\face_detection.vbproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\obj\x86\Debug\face_detection.Form1.resources
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\obj\x86\Debug\face_detection.Form2.resources
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\obj\x86\Debug\face_detection.Resources.resources
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\obj\x86\Debug\face_detection.vbproj.GenerateResource.cache
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\obj\x86\Debug\face_detection.vbproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\obj\x86\Debug\face_detection.vbproj.CopyComplete
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\obj\x86\Debug\face_detection.exe
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\obj\x86\Debug\face_detection.xml
+\\wsl.localhost\Ubuntu-20.04\home\tay121222\Luxand-FaceRecognition-Demo-VBNET\face_detection\obj\x86\Debug\face_detection.pdb
